@@ -1,6 +1,6 @@
-package com.github.sanchezih.java_inicial.clase01._02_ejercitacion;
+package ejercicios.clase01;
 
-import ar.edu.ort.p1.util.Consola;
+import com.github.sanchezih.util.io.Consola;
 
 /* Ejercicio03
 El programa lee por teclado una calificacion numerica entre 0 y 10 y muestra por pantalla su correspondiente calificacion alfabetica.
