@@ -1,4 +1,4 @@
-package clase03;
+package ejercicios.clase03;
 
 import com.github.sanchezih.util.io.Consola;
 
@@ -43,6 +43,6 @@ public class Ejercicio02 {
 				ubicacionMin = i;
 			}
 		}
-			System.out.println("El maximo vallor es " + min + " cuya ubicacion es " + ubicacionMin);
+		System.out.println("El maximo vallor es " + min + " cuya ubicacion es " + ubicacionMin);
 	}
 }

@@ -1,5 +1,7 @@
-package clase03;
+package ejercicios.clase03;
+
 import com.github.sanchezih.util.io.Consola;
+
 /* Programa que lee la altura de N personas y calcula:
 La altura media.
 Cuantas personas tienen una altura superior a la media.
